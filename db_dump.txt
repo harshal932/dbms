@@ -1,0 +1,185 @@
+[
+  {
+    "schedule_id": 1,
+    "train_id": 1,
+    "source_station": 1,
+    "dest_station": 2,
+    "departure": "2026-10-01 16:00:00",
+    "arrival": "2026-10-02 08:00:00",
+    "fare": 2500,
+    "available_seats": 800
+  },
+  {
+    "schedule_id": 2,
+    "train_id": 2,
+    "source_station": 1,
+    "dest_station": 9,
+    "departure": "2026-10-01 06:00:00",
+    "arrival": "2026-10-01 14:00:00",
+    "fare": 1200,
+    "available_seats": 601
+  },
+  {
+    "schedule_id": 3,
+    "train_id": 3,
+    "source_station": 2,
+    "dest_station": 7,
+    "departure": "2026-10-02 10:00:00",
+    "arrival": "2026-10-02 15:00:00",
+    "fare": 300,
+    "available_seats": 1000
+  },
+  {
+    "schedule_id": 4,
+    "train_id": 5,
+    "source_station": 1,
+    "dest_station": 10,
+    "departure": "2026-10-03 08:00:00",
+    "arrival": "2026-10-03 14:30:00",
+    "fare": 1500,
+    "available_seats": 500
+  },
+  {
+    "schedule_id": 5,
+    "train_id": 8,
+    "source_station": 3,
+    "dest_station": 4,
+    "departure": "2026-10-05 14:00:00",
+    "arrival": "2026-10-06 18:00:00",
+    "fare": 1800,
+    "available_seats": 900
+  },
+  {
+    "schedule_id": 6,
+    "train_id": 4,
+    "source_station": 2,
+    "dest_station": 6,
+    "departure": "2026-10-06 20:00:00",
+    "arrival": "2026-10-07 05:00:00",
+    "fare": 2100,
+    "available_seats": 750
+  },
+  {
+    "schedule_id": 7,
+    "train_id": 6,
+    "source_station": 1,
+    "dest_station": 8,
+    "departure": "2026-10-08 07:00:00",
+    "arrival": "2026-10-08 12:00:00",
+    "fare": 1600,
+    "available_seats": 550
+  },
+  {
+    "schedule_id": 8,
+    "train_id": 7,
+    "source_station": 7,
+    "dest_station": 2,
+    "departure": "2026-10-09 09:00:00",
+    "arrival": "2026-10-09 13:00:00",
+    "fare": 500,
+    "available_seats": 650
+  },
+  {
+    "schedule_id": 9,
+    "train_id": 9,
+    "source_station": 3,
+    "dest_station": 1,
+    "departure": "2026-10-10 18:00:00",
+    "arrival": "2026-10-11 12:00:00",
+    "fare": 900,
+    "available_seats": 400
+  },
+  {
+    "schedule_id": 10,
+    "train_id": 10,
+    "source_station": 4,
+    "dest_station": 3,
+    "departure": "2026-10-12 11:00:00",
+    "arrival": "2026-10-13 14:00:00",
+    "fare": 3000,
+    "available_seats": 200
+  }
+]
+STATIONS:
+[
+  {
+    "station_id": 1,
+    "name": "New Delhi Railway Station",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "platforms": 16
+  },
+  {
+    "station_id": 2,
+    "name": "Chhatrapati Shivaji Maharaj Terminus",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "country": "India",
+    "platforms": 18
+  },
+  {
+    "station_id": 3,
+    "name": "Howrah Junction",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "country": "India",
+    "platforms": 23
+  },
+  {
+    "station_id": 4,
+    "name": "Chennai Central",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "platforms": 17
+  },
+  {
+    "station_id": 5,
+    "name": "Secunderabad Junction",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "platforms": 10
+  },
+  {
+    "station_id": 6,
+    "name": "Ahmedabad Junction",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "country": "India",
+    "platforms": 12
+  },
+  {
+    "station_id": 7,
+    "name": "Pune Junction",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "country": "India",
+    "platforms": 6
+  },
+  {
+    "station_id": 8,
+    "name": "Jaipur Junction",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "country": "India",
+    "platforms": 7
+  },
+  {
+    "station_id": 9,
+    "name": "Lucknow Charbagh",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "platforms": 9
+  },
+  {
+    "station_id": 10,
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "platforms": 6
+  }
+]
